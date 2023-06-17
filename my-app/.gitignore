@@ -14,7 +14,7 @@
 # misc
 .env.local
 .env
-api/.env
+../api/.env
 .DS_Store
 .env.development.local
 .env.test.local
